@@ -1,0 +1,3 @@
+C:/Users/cansu/vscodeprojects/PA1/build/CMakeFiles/clearvision.dir
+C:/Users/cansu/vscodeprojects/PA1/build/CMakeFiles/edit_cache.dir
+C:/Users/cansu/vscodeprojects/PA1/build/CMakeFiles/rebuild_cache.dir
