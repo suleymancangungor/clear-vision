@@ -5,11 +5,11 @@ Program will be invoked via command-line arguments, which determine the operatio
 Below is a description of the available operations and the associated arguments:
 
 
-Mean Filter : The mean filter is a basic smoothing technique used to reduce noise in images by replacing each pixel with the average of its surrounding pixels.
+- **Mean Filter:** The mean filter is a basic smoothing technique used to reduce noise in images by replacing each pixel with the average of its surrounding pixels.
 
-Gaussian Smoothing Filter : The Gaussian smoothing filter reduces image noise and blurs details using a weighted average around each pixel, where nearby pixels have more influence than those farther away.
+- **Gaussian Smoothing Filter:** The Gaussian smoothing filter reduces image noise and blurs details using a weighted average around each pixel, where nearby pixels have more influence than those farther away.
 
-Unsharp Masking Filter : This filter sharpens the image by emphasizing the edges, which helps make important features more visible while preserving the clarity of key details.
+- **Unsharp Masking Filter:** This filter sharpens the image by emphasizing the edges, which helps make important features more visible while preserving the clarity of key details.
 
 
 | Operation Command-Line Arguments  | Description  |
